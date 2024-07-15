@@ -1,3 +1,6 @@
+# Ajustado para fins de desafio
+
+
 from fastapi import FastAPI
 
 from store.core.config import settings

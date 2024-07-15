@@ -1,3 +1,5 @@
+# Ajustado para fins de desafio
+
 from motor.motor_asyncio import AsyncIOMotorClient
 
 from store.core.config import settings
